@@ -8,3 +8,7 @@ $ git init
 Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
 this is my repo
 ```
+- [x] my to-do list
+- [x] project done
+- [ ] project not been done
+
